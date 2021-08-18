@@ -1,4 +1,4 @@
-const {substitution} = require("../src/substitution")
+const substitution = require("../src/substitution")
 const expect = require("chai").expect
 describe("substitution()", () => {
 	const alpha = "xoyqmcgrukswaflnthdjpzibev"

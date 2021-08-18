@@ -29,4 +29,4 @@ const substitutionModule = (function () {
   }
 })()
 
-module.exports = substitutionModule.substitution
+module.exports = { substitution: substitutionModule.substitution }
